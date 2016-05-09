@@ -9,7 +9,8 @@
         "editlink",
         "github",
         "tbfed-pagefooter",
-        "duoshuo"
+        "duoshuo",
+        "github-buttons"
     ],
     "pluginsConfig": {
         "baidu": {
@@ -27,12 +28,6 @@
             "copyright": "&copy UAV lover",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
-        },
-        "pluginsConfig": {
-        "duoshuo": {
-            "short_name": "nephen",
-            "theme": "default"
-            }
         }
     }
 }
