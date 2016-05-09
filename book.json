@@ -15,15 +15,15 @@
             "token": "a9787f0ab45d5e237bab522431d0a7ec"
         },
         "editlink": {
-            "base": "https://github.com/nephen/new-embedded-member-learning-guidance/edit/master",
+            "base": "https://github.com/nephen/direction-cosine-matrix-imu-theory/edit/master",
             "label": "编辑本页",
             "multilingual": false
         },
         "github": {
-            "url": "https://github.com/nephen/new-embedded-member-learning-guidance"
+            "url": "https://github.com/nephen/direction-cosine-matrix-imu-theory"
         },
         "tbfed-pagefooter": {
-        "copyright":"&copy CSUST/emb Team",
+        "copyright":"&copy UAV lover",
         "modify_label": "该文件修订时间：",
         "modify_format": "YYYY-MM-DD HH:mm:ss"
         }
