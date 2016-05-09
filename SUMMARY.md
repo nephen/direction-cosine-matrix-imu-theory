@@ -12,7 +12,7 @@
 * [加速度计](accelerometers.md)
 * [反馈控制器](feedback_controller.md)
 * [陀螺仪的特点](gyro_characteristics.md)
-* [风](Wind.md)
+* [风](wind.md)
 * [使用DCM控制和导航](Using DCM in control and navigation.md)
 * [设计实现](Implementation.md)
 * [参考](References.md)
