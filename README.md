@@ -70,3 +70,6 @@ ArduPilot的[DCM库算法](https://github.com/ArduPilot/ardupilot/blob/master/li
 1. 关于gitbook，可查看[www.gitbook.com](https://www.gitbook.com)。
 
 2. gitbook的官方使用，可查看[https://help.gitbook.com](https://help.gitbook.com/)。
+
+
+>最后感谢Innoecho、小羊、小飞、小段、并肩王、大牛、小孟、luoshi006、落落的主导翻译！
