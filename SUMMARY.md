@@ -14,6 +14,6 @@
 * [陀螺仪的特点](gyro_characteristics.md)
 * [风](wind.md)
 * [使用DCM控制和导航](using_dcm_in_control_and_navigation.md)
-* [设计实现](Implementation.md)
+* [设计实现](implementation.md)
 * [参考](References.md)
 
