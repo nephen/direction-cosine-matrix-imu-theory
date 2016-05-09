@@ -7,7 +7,7 @@
 * [向量点叉乘](vector_dot_and_cross_products.md)
 * [陀螺仪信号计算方向余弦](computing_direction_cosines_from_gyro_signals.md)
 * [再归一化](renormalization.md)
-* [漂移消除](Drift cancellation.md)
+* [漂移消除](drift_cancellation.md)
 * [GPS](GPS.md)
 * [加速度计](Accelerometers.md)
 * [反馈控制器](Feedback controller.md)
