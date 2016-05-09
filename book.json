@@ -1,1 +1,31 @@
-{}
+{
+    "language": "zh",
+    "plugins": [
+        "mathjax",
+        "scrollablecode",
+        "youtube",
+        "baidu",
+        "video",
+        "editlink",
+        "github",
+        "tbfed-pagefooter"
+    ],
+    "pluginsConfig": {
+        "baidu": {
+            "token": "a9787f0ab45d5e237bab522431d0a7ec"
+        },
+        "editlink": {
+            "base": "https://github.com/nephen/new-embedded-member-learning-guidance/edit/master",
+            "label": "编辑本页",
+            "multilingual": false
+        },
+        "github": {
+            "url": "https://github.com/nephen/new-embedded-member-learning-guidance"
+        },
+        "tbfed-pagefooter": {
+        "copyright":"&copy CSUST/emb Team",
+        "modify_label": "该文件修订时间：",
+        "modify_format": "YYYY-MM-DD HH:mm:ss"
+        }
+    }
+}
