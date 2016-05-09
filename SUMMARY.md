@@ -10,7 +10,7 @@
 * [漂移消除](drift_cancellation.md)
 * [GPS](gps.md)
 * [加速度计](accelerometers.md)
-* [反馈控制器](Feedback controller.md)
+* [反馈控制器](feedback_controller.md)
 * [陀螺仪的特点](Gyro characteristics.md)
 * [风](Wind.md)
 * [使用DCM控制和导航](Using DCM in control and navigation.md)
