@@ -9,8 +9,7 @@
         "editlink",
         "github",
         "tbfed-pagefooter",
-        "duoshuo",
-        "github-buttons"
+        "duoshuo"
     ],
     "pluginsConfig": {
         "baidu": {
@@ -29,15 +28,9 @@
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
-        "github-buttons": {
-          "repo": "nephen/direction-cosine-matrix-imu-theory",
-          "types": [
-            "star"
-          ]
-       },
-       "duoshuo": {
-           "short_name": "nephen",
-           "theme": "default"
-       }
+        "duoshuo": {
+            "short_name": "nephen",
+            "theme": "default"
+        }
     }
 }
