@@ -11,7 +11,7 @@ ArduPilot的[DCM库算法](https://github.com/ArduPilot/ardupilot/blob/master/li
 
 1. **网页端编辑**（推荐方法：非常简单，只需三步就可以完成你的贡献）
 
-    在浏览在线页面时进行编辑本页，这样，只要你看到不妥的地方立马可以修改，具体如下图
+    - 在浏览在线页面时进行编辑本页，这样，只要你看到不妥的地方立马可以修改，具体如下图
 
     ![editpage](images/editpage.png)
 
@@ -19,11 +19,11 @@ ArduPilot的[DCM库算法](https://github.com/ArduPilot/ardupilot/blob/master/li
 
     ![editgithub](images/editgithub.png)，
 
-    进入编辑页面后，对文件进行修改，修改完成后，提交请求，具体如下图
+    - 进入编辑页面后，对文件进行修改，修改完成后，提交请求，具体如下图
 
     ![newbranch](images/newbranch.png)
 
-    检查是否与原有版本有冲突，如果有，解决冲突再提交，没有则提交，具体如下图
+    - 检查是否与原有版本有冲突，如果有，解决冲突再提交，没有则提交，具体如下图
 
     ![pullre](images/pullre.png)
 
