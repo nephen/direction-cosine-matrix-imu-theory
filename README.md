@@ -5,6 +5,9 @@
 ####文章用处
 
 ArduPilot的[DCM库算法](https://github.com/ArduPilot/ardupilot/blob/master/libraries/AP_AHRS/AP_AHRS_DCM.cpp#L269)实现参考文章。
+
+####译文下载
+该翻译文章会生成pdf文档，请转至[下载地址](https://www.gitbook.com/download/pdf/book/nephen/direction-cosine-matrix-imu-theory)。
   
 
 ####参与维护
@@ -57,3 +60,9 @@ ArduPilot的[DCM库算法](https://github.com/ArduPilot/ardupilot/blob/master/li
 	#如果出现了本地版本与云端出现冲突，先git pull解决冲突，再commit后提交即可
 	```
 	到这里为止，还只对你自己的仓库进行了修改，你需要按照上面的方法提交分支到nephen的仓库，可以看出，如果只是少量的更改，建议使用网页端编辑。
+    
+####参考资料
+
+1. 关于gitbook，可查看[www.gitbook.com](https://www.gitbook.com)。
+
+2. gitbook的官方使用，可查看[www.help.gitbook.com](https://help.gitbook.com/)。
