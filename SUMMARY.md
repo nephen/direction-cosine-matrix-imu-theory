@@ -9,7 +9,7 @@
 * [再归一化](renormalization.md)
 * [漂移消除](drift_cancellation.md)
 * [GPS](gps.md)
-* [加速度计](Accelerometers.md)
+* [加速度计](accelerometers.md)
 * [反馈控制器](Feedback controller.md)
 * [陀螺仪的特点](Gyro characteristics.md)
 * [风](Wind.md)
