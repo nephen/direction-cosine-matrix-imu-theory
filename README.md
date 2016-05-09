@@ -11,6 +11,8 @@ ArduPilot的[DCM库算法](https://github.com/ArduPilot/ardupilot/blob/master/li
 ####译文下载
 该翻译文章会生成pdf文档，请转至[下载地址](https://www.gitbook.com/download/pdf/book/nephen/direction-cosine-matrix-imu-theory)。
   
+####编辑语法
+[Markdown](http://wowubuntu.com/markdown/)语法，数学公式采用[MathJax](http://iori.sinaapp.com/17.html/comment-page-1?replytocom=2)。
 
 ####参与维护
 
@@ -67,4 +69,4 @@ ArduPilot的[DCM库算法](https://github.com/ArduPilot/ardupilot/blob/master/li
 
 1. 关于gitbook，可查看[www.gitbook.com](https://www.gitbook.com)。
 
-2. gitbook的官方使用，可查看[www.help.gitbook.com](https://help.gitbook.com/)。
+2. gitbook的官方使用，可查看[https://help.gitbook.com](https://help.gitbook.com/)。
