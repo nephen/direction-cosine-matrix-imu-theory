@@ -18,11 +18,11 @@ ArduPilot的[DCM库算法](https://github.com/ArduPilot/ardupilot/blob/master/li
 
 1. **网页端编辑**（推荐方法：非常简单，只需三步就可以完成你的贡献）
 
-    - 找到入口：在浏览在线页面时进行编辑本页，这样，只要你看到不妥的地方立马可以修改，具体如下图
+    - 找到入口：浏览在线页面时编辑本页，这样，看到不妥的地方可以立马修改，如下图
 
     ![editpage](images/editpage.png)
 
-    或者也可以打开[网页端](https://github.com/nephen/direction-cosine-matrix-imu-theory)，进入要进行编辑的文件，如下图
+    或者也可以打开[网页端](https://github.com/nephen/direction-cosine-matrix-imu-theory)进入要进行编辑的文件，如下图
 
     ![editgithub](images/editgithub.png)，
 
@@ -30,14 +30,14 @@ ArduPilot的[DCM库算法](https://github.com/ArduPilot/ardupilot/blob/master/li
 
     ![issue1](images/issue1.png)
 
-    	按照提示，点击`Fork this repository and propose chanes`，进入进行编辑如下
+    	按照提示，点击`Fork this repository and propose chanes`，进入即可编辑，如下图
 
     	![editfirst](images/editfirst.png)
-    - 提交贡献：首先提名文件更改，如下
+    - 提交贡献：首先提名文件更改，如下图
 
     	![propose](images/proposefirst.png) 
 
-    	检查是否与原有版本有冲突，如果有，解决冲突再提交，没有则提交，具体如下图
+    	检查是否与原有版本有冲突，如果有，解决冲突再提交，没有则提交，如下图
 
     	![pullfirst](images/pullfirst.png)
 
@@ -72,7 +72,7 @@ ArduPilot的[DCM库算法](https://github.com/ArduPilot/ardupilot/blob/master/li
 	
 	#如果出现了本地版本与云端出现冲突，先git pull解决冲突，再commit后提交即可
 	```
-	到这里为止，还只对你自己的仓库进行了修改，你需要`new pull request`提交分支到nephen的仓库，可以看出，如果只是少量的更改，建议使用网页端编辑。
+	到这里为止，还只对你自己的仓库进行了修改，你需要`new pull request`提交分支到nephen的仓库，如下图，可以看出，如果只是少量的更改，建议使用网页端编辑。
 
 	![issue2](images/issue2.png)
     
