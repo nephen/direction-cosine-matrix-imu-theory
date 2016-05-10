@@ -6,7 +6,7 @@
 * [方向余弦矩阵](posts/direction_cosine_matrices.md)
 * [向量点叉乘](posts/vector_dot_and_cross_products.md)
 * [陀螺仪信号计算方向余弦](posts/computing_direction_cosines_from_gyro_signals.md)
-* [再归一化](posts/renormalization.md)
+* [重规范化](posts/renormalization.md)
 * [漂移消除](posts/drift_cancellation.md)
 * [GPS](posts/gps.md)
 * [加速度计](posts/accelerometers.md)
