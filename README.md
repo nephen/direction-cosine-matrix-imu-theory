@@ -40,7 +40,7 @@ ArduPilot的[DCM库算法](https://github.com/ArduPilot/ardupilot/blob/master/li
 
     	![pullre](images/pullre.png)
 
-    剩下来就是版主的事了，如果没有太大的问题，版主就可以合并分支了，到这你的对本文档的贡献就完成了。后期的更改只需在你自己的github工程上更改，然后`new pull request`给我就好了。
+    剩下来就是版主的事了，如果没有太大的问题，版主就可以合并分支了，到这你的对本文档的贡献就完成了。后期的更改工作只需在你自己的github工程上更改，然后`new pull request`给我就好了，前面的步骤都可以省掉。
 
 2. 本地编辑（git高级用户推荐）
 
