@@ -18,7 +18,7 @@ ArduPilot的[DCM库算法](https://github.com/ArduPilot/ardupilot/blob/master/li
 
 1. **网页端编辑**（推荐方法：非常简单，只需三步就可以完成你的贡献）
 
-    - 在浏览在线页面时进行编辑本页，这样，只要你看到不妥的地方立马可以修改，具体如下图
+    - 找到入口：在浏览在线页面时进行编辑本页，这样，只要你看到不妥的地方立马可以修改，具体如下图
 
     ![editpage](images/editpage.png)
 
@@ -26,21 +26,24 @@ ArduPilot的[DCM库算法](https://github.com/ArduPilot/ardupilot/blob/master/li
 
     ![editgithub](images/editgithub.png)，
 
-    - 进入编辑页面后，对文件进行修改，会出现如下图问题
+    - 开始编辑：进入编辑页面后，对文件进行修改，会出现如下图问题
 
     ![issue1](images/issue1.png)
 
-    	按照提示，点击`Fork this repository and propose chanes`，完了之后，进入你的github里面的`direction-cosine-matrix-imu-theory`工程posts目录，找到你要编辑的文件进行编辑，完成后commit到你自己的`direction-cosine-matrix-imu-theory`工程。
+    	按照提示，点击`Fork this repository and propose chanes`，进入进行编辑如下
 
-    - 将你更新后的`direction-cosine-matrix-imu-theory`工程new pull request给nephen即可，如图
+    	![editfirst](images/editfirst.png)
+    - 提交贡献：首先提名文件更改，如下
 
-    ![issue2](images/issue2.png)
+    	![propose](images/proposefirst.png) 
 
     	检查是否与原有版本有冲突，如果有，解决冲突再提交，没有则提交，具体如下图
 
-    	![pullre](images/pullre.png)
+    	![pullfirst](images/pullfirst.png)
 
-    剩下来就是版主的事了，如果没有太大的问题，版主就可以合并分支了，到这你的对本文档的贡献就完成了。后期的更改工作只需在你自己的github工程上更改，然后`new pull request`给我就好了，前面的步骤都可以省掉。
+    	![creatpullfirst](images/creatpullfirst.png)
+
+    剩下来就是版主的事了，如果没有太大的问题，版主就可以合并分支了，到这你的对本文档的贡献就完成了。
 
 2. 本地编辑（git高级用户推荐）
 
@@ -69,7 +72,9 @@ ArduPilot的[DCM库算法](https://github.com/ArduPilot/ardupilot/blob/master/li
 	
 	#如果出现了本地版本与云端出现冲突，先git pull解决冲突，再commit后提交即可
 	```
-	到这里为止，还只对你自己的仓库进行了修改，你需要按照上面的方法pull request提交分支到nephen的仓库，可以看出，如果只是少量的更改，建议使用网页端编辑。
+	到这里为止，还只对你自己的仓库进行了修改，你需要`new pull request`提交分支到nephen的仓库，可以看出，如果只是少量的更改，建议使用网页端编辑。
+
+	![issue2](images/issue2.png)
     
 ####参考资料
 
