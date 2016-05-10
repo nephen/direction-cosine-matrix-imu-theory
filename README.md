@@ -73,6 +73,6 @@ ArduPilot的[DCM库算法](https://github.com/ArduPilot/ardupilot/blob/master/li
 
 
 ####License
-
+采用[CC BY 4.0协议](https://creativecommons.org/licenses/by/4.0/)进行许可发布。
 
 >最后感谢Innoecho、小羊、小飞、小段、并肩王、大牛、小孟、luoshi006、落落的主导翻译！
