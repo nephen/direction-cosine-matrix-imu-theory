@@ -8,7 +8,8 @@
         "video",
         "editlink",
         "github",
-        "tbfed-pagefooter"
+        "tbfed-pagefooter",
+        "duoshuo"
     ],
     "pluginsConfig": {
         "baidu": {
@@ -23,9 +24,16 @@
             "url": "https://github.com/nephen/direction-cosine-matrix-imu-theory"
         },
         "tbfed-pagefooter": {
-        "copyright":"&copy UAV lover",
-        "modify_label": "该文件修订时间：",
-        "modify_format": "YYYY-MM-DD HH:mm:ss"
+            "copyright": "&copy Utrans team",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "duoshuo": {
+            "short_name": "nephen",
+            "theme": "default"
+        },
+        "mathjax":{
+            "forceSVG": true
         }
     }
 }
