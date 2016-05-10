@@ -63,7 +63,7 @@ ArduPilot的[DCM库算法](https://github.com/ArduPilot/ardupilot/blob/master/li
 	
 	#如果出现了本地版本与云端出现冲突，先git pull解决冲突，再commit后提交即可
 	```
-	到这里为止，还只对你自己的仓库进行了修改，你需要按照上面的方法提交分支到nephen的仓库，可以看出，如果只是少量的更改，建议使用网页端编辑。
+	到这里为止，还只对你自己的仓库进行了修改，你需要按照上面的方法pull request提交分支到nephen的仓库，可以看出，如果只是少量的更改，建议使用网页端编辑。
     
 ####参考资料
 
