@@ -32,7 +32,7 @@ ArduPilot的[DCM库算法](https://github.com/ArduPilot/ardupilot/blob/master/li
 
     	按照提示，点击`Fork this repository and propose chanes`，完了之后，进入你的github里面的`direction-cosine-matrix-imu-theory`工程post目录，找到你要编辑的文件进行编辑，完成后commit到你自己的`direction-cosine-matrix-imu-theory`工程。
 
-    - 将你更新后的工程new pull request给nephen即可，如图
+    - 将你更新后的`direction-cosine-matrix-imu-theory`工程new pull request给nephen即可，如图
 
     ![issue2](images/issue2.png)
 
