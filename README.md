@@ -30,11 +30,7 @@ ArduPilot的[DCM库算法](https://github.com/ArduPilot/ardupilot/blob/master/li
 
     ![issue1](images/issue1.png)
 
-    	按照提示，应该先fork，如下
-
-    	![fork](images/fork.png)
-
-    	完了之后，进入你fork后的工程的post目录下找到你要编辑的文件编辑，编辑完成后commit到你自己的工程。
+    	按照提示，点击`Fork this repository and propose chanes`，完了之后，进入你的github里面的`direction-cosine-matrix-imu-theory`工程post目录，找到你要编辑的文件进行编辑，完成后commit到你自己的`direction-cosine-matrix-imu-theory`工程。
 
     - 将你更新后的工程new pull request给nephen即可，如图
 
@@ -44,7 +40,7 @@ ArduPilot的[DCM库算法](https://github.com/ArduPilot/ardupilot/blob/master/li
 
     	![pullre](images/pullre.png)
 
-    剩下来就是版主的事了，如果没有太大的问题，版主就可以合并分支了，到这你的对本文档的贡献就完成了。
+    剩下来就是版主的事了，如果没有太大的问题，版主就可以合并分支了，到这你的对本文档的贡献就完成了。后期的更改只需在你自己的github工程上更改，然后`new pull request`给我就好了。
 
 2. 本地编辑（git高级用户推荐）
 
