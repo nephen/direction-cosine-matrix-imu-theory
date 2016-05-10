@@ -26,13 +26,23 @@ ArduPilot的[DCM库算法](https://github.com/ArduPilot/ardupilot/blob/master/li
 
     ![editgithub](images/editgithub.png)，
 
-    - 进入编辑页面后，对文件进行修改，修改完成后，提交请求，具体如下图
+    - 进入编辑页面后，对文件进行修改，会出现如下图问题
 
-    ![newbranch](images/newbranch.png)
+    ![issue1](images/issue1.png)
 
-    - 检查是否与原有版本有冲突，如果有，解决冲突再提交，没有则提交，具体如下图
+    	按照提示，应该先fork，如下
 
-    ![pullre](images/pullre.png)
+    	![fork](images/fork.png)
+
+    	完了之后，进入你fork后的工程的post目录下找到你要编辑的文件编辑，编辑完成后commit到你自己的工程。
+
+    - 将你更新后的工程new pull request给nephen即可，如图
+
+    ![issue2](images/issue2.png)
+
+    	检查是否与原有版本有冲突，如果有，解决冲突再提交，没有则提交，具体如下图
+
+    	![pullre](images/pullre.png)
 
     剩下来就是版主的事了，如果没有太大的问题，版主就可以合并分支了，到这你的对本文档的贡献就完成了。
 
