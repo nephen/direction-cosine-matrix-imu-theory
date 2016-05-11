@@ -13,6 +13,11 @@ ArduPilot的[DCM库算法](https://github.com/ArduPilot/ardupilot/blob/master/li
   
 ####编辑语法
   [Markdown](http://wowubuntu.com/markdown/)语法，数学公式采用[MathJax1](http://iori.sinaapp.com/17.html/comment-page-1?replytocom=2)/[MathJax2](http://mlworks.cn/posts/introduction-to-mathjax-and-latex-expression/)。
+  
+####翻译进度
+
+- 2016.5.8 开始翻译
+- 2016.6.8 预计初版完成
 
 ####参与维护
 
