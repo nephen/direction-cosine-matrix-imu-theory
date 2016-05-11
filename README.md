@@ -20,19 +20,19 @@ ArduPilot的[DCM库算法](https://github.com/ArduPilot/ardupilot/blob/master/li
 
     - 找到入口：浏览在线页面时编辑本页，这样，看到不妥的地方可以立马修改，如下图
 
-    ![editpage](images/editpage.png)
+	    ![editpage](images/editpage.png)
 
-    或者也可以打开[网页端](https://github.com/nephen/direction-cosine-matrix-imu-theory)进入要进行编辑的文件，如下图
+	    或者也可以打开[网页端](https://github.com/nephen/direction-cosine-matrix-imu-theory)进入要进行编辑的文件，如下图
 
-    ![editgithub](images/editgithub.png)，
+	    ![editgithub](images/editgithub.png)，
 
     - 开始编辑：进入编辑页面后，对文件进行修改，会出现如下图问题
 
-    ![issue1](images/issue1.png)
+		![issue1](images/issue1.png)
 
-    	按照提示，点击`Fork this repository and propose chanes`，进入即可编辑，如下图
+		按照提示，点击`Fork this repository and propose chanes`，进入即可编辑，如下图
 
-    	![editfirst](images/editfirst.png)
+		![editfirst](images/editfirst.png)
     - 提交贡献：首先提名文件更改，如下图
 
     	![propose](images/proposefirst.png) 
@@ -43,7 +43,7 @@ ArduPilot的[DCM库算法](https://github.com/ArduPilot/ardupilot/blob/master/li
 
     	![creatpullfirst](images/creatpullfirst.png)
 
-    剩下来就是版主的事了，如果没有太大的问题，版主就可以合并分支了，到这你的对本文档的贡献就完成了。
+    	剩下来就是版主的事了，如果没有太大的问题，版主就可以合并分支了，到这你的对本文档的贡献就完成了。
 
 2. 本地编辑（git高级用户推荐）
 
