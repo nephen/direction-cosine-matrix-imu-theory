@@ -73,11 +73,11 @@ ArduPilot的[DCM库算法](https://github.com/ArduPilot/ardupilot/blob/master/li
 	git commit -m "your comment"
 	#提交更改
 
-	git pull
-	#检查是否与云端产生冲突，如果有，解决冲突后重新git commit -m "your comment"
+	git pull https://github.com/nephen/direction-cosine-matrix-imu-theory.git
+	#检查是否与nephen云端产生冲突，如果有，解决冲突后重新git commit -m "your comment"
 
 	git push origin master
-	#推送到云端
+	#推送到个人云端
 	```
 	到这里为止，还只对你自己的仓库进行了修改，你需要`new pull request`提交分支到nephen的仓库，如下图，可以看出，如果只是少量的更改，建议使用网页端编辑。
 
