@@ -73,7 +73,7 @@ ArduPilot的[DCM库算法](https://github.com/ArduPilot/ardupilot/blob/master/li
 	git commit -m "your comment"
 	#提交更改
 
-	git pull https://github.com/nephen/direction-cosine-matrix-imu-theory.git
+	git pull https://github.com/nephen/direction-cosine-matrix-imu-theory.git master
 	#检查是否与nephen云端产生冲突，如果有，解决冲突后重新git commit -m "your comment"
 
 	git push origin master
