@@ -4,8 +4,8 @@ GitBook allows you to organize your book into chapters,
 each chapter is stored in a separate file like this one.
 
 ***
-  这是对应用了惯性测量单元（IMU）的模型飞机以及直升机的基于方向
-余弦矩阵（DCM）的理论与实现的系列文章的第一篇。事实上，这篇文章
+  这是对应用了惯性测量单元（IMU）的模型飞机以及直升机的基于方向余弦矩阵（DCM）的理论与实现的系列文章的
+第一篇。事实上，这篇文章
 到目前还只是一个草案，依然还有很多工作要做。许多评论者对于本篇文
 章的增补和修改提出了很棒的建议，尤其是Louis LeGrand 和一些匿名
 来信的人，我们应该制作并准备一些文章中还没有包含的图表。我们后面
