@@ -22,9 +22,37 @@
 这就等于对旋转矩阵（R）的第三行与陀螺仪旋转向量的点积。所以，飞行器绕地垂轴的转向速度为：\\(\omega\\(\_x\\) r\\(\_{zx}\\) + \omega\\(\_y\\) r\\(\_{zy}\\) + \omega\\(\_z\\) r_{zz}\\) 。
 
 $$
-        \begin{matrix}
+        \begin{bmatrix}
         1 & x & x^2 \\
         1 & y & y^2 \\
         1 & z & z^2 \\
-        \end{matrix}
+        \end{bmatrix}
 $$
+
+x_i^2
+
+$\begin{bmatrix}r_{xx} & r_{yx} & 0 \end{bmatrix}$
+
+$
+        \begin{bmatrix}
+        2 & x & x^2 \\
+        1 & y & y^2 \\
+        1 & z & z^2 \\
+        \end{bmatrix}
+$
+
+\[
+        \begin{bmatrix}
+        3 & x & x^2 \\
+        1 & y & y^2 \\
+        1 & z & z^2 \\
+        \end{bmatrix}
+\]
+
+(
+        \begin{bmatrix}
+        2 & x & x^2 \\
+        1 & y & y^2 \\
+        1 & z & z^2 \\
+        \end{bmatrix}
+)
