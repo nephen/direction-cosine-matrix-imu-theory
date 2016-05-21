@@ -29,9 +29,9 @@ $$
         \end{bmatrix}
 $$
 
-x_i^2
+$x_i^2$
 
-$\begin{bmatrix}r_{xx} & r_{yx} & 0 \end{bmatrix}$
+$$\begin{bmatrix}r_{xx} & r_{yx} & 0 \end{bmatrix}$$
 
 $
         \begin{bmatrix}
@@ -49,10 +49,9 @@ $
         \end{bmatrix}
 \]
 
-(
+
         \begin{bmatrix}
-        2 & x & x^2 \\
+        4 & x & x^2 \\
         1 & y & y^2 \\
         1 & z & z^2 \\
         \end{bmatrix}
-)
