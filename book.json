@@ -35,6 +35,9 @@
         "duoshuo": {
             "short_name": "nephen",
             "theme": "default"
-        }
+        },
+        "search": {
+            "maxIndexSize": 100000
+       }
     }
 }
