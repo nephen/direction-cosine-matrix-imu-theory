@@ -10,7 +10,7 @@
         "github",
         "tbfed-pagefooter",
         "duoshuo",
-        "search"
+        "-search"
     ],
     "pluginsConfig": {
         "mathjax": {
@@ -35,9 +35,6 @@
         "duoshuo": {
             "short_name": "nephen",
             "theme": "default"
-        },
-        "search": {
-            "maxIndexSize": 100000
-       }
+        }
     }
 }
