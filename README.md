@@ -4,22 +4,22 @@
 
 >访问地址：[dcm.nephen.com](http://dcm.nephen.com/)
   
-####文章用处
+#### 文章用处
 
 ArduPilot的[DCM库算法](https://github.com/ArduPilot/ardupilot/blob/master/libraries/AP_AHRS/AP_AHRS_DCM.cpp#L269)实现参考文章。
 
-####译文下载
+#### 译文下载
 该翻译文章会生成pdf文档，请转至[下载地址](https://www.gitbook.com/download/pdf/book/nephen/direction-cosine-matrix-imu-theory)。
   
-####编辑语法
+#### 编辑语法
   [Markdown](http://wowubuntu.com/markdown/)语法，数学公式采用[MathJax1](http://iori.sinaapp.com/17.html/comment-page-1?replytocom=2)/[MathJax2](http://mlworks.cn/posts/introduction-to-mathjax-and-latex-expression/)。
   
-####翻译进度
+#### 翻译进度
 
 - 2016.5.8 开始翻译
 - 2016.6.8 预计初版完成
 
-####参与维护
+#### 参与维护
 
 1. **网页端编辑**（推荐方法：非常简单，只需三步就可以完成你的贡献）
 
@@ -83,14 +83,14 @@ ArduPilot的[DCM库算法](https://github.com/ArduPilot/ardupilot/blob/master/li
 
 	![issue2](images/issue2.png)
     
-####参考资料
+#### 参考资料
 
 1. 关于gitbook，可查看[www.gitbook.com](https://www.gitbook.com)。
 
 2. gitbook的官方使用，可查看[https://help.gitbook.com](https://help.gitbook.com/)。
 
 
-####License
+#### License
 采用[CC BY 4.0协议](https://creativecommons.org/licenses/by/4.0/)进行许可发布。
 
 >最后感谢Innoecho、小羊、小飞、小段、一字并肩王、大牛、小孟、luoshi006、落落的主导翻译！
